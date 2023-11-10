@@ -5,3 +5,5 @@ I use the RSA_private_decrypt function to decrypt the message. This function tak
 Make sure to replace private_key_string and encrypted_message with your actual private key string and encrypted message.
 
 <h1>Anti-Ransomeware</h1>
+
+<h2>To contact me, send a message on Telegram : @a_h_bahrami</h2>
