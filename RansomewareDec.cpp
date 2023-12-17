@@ -30,8 +30,6 @@ int main() {
     // Create an RSA key to use for decryption
     RSA * rsa = RSA_new();
 
-    // Your existing code to set the RSA key modulus and exponent goes here
-
     // Call the decrypt_RSA function to decrypt the message
     decrypt_RSA(rsa, private_key_string, encrypted_message);
 
